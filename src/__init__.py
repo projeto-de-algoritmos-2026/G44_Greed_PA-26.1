@@ -1,0 +1,1 @@
+"""Rota Solidaria package."""
