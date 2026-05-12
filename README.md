@@ -95,3 +95,5 @@ python -m unittest discover -v
     |-- test_algorithms.py
     `-- __init__.py
 ```
+##Vídeo explicando
+- https://youtu.be/OMt9D0n6xpg
